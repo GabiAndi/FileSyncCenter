@@ -2,6 +2,15 @@
     <img src="src/img/logo.svg" height="100">
 </p>
 
+<p align="center">
+    <a><img alt="GitHub" src="https://img.shields.io/github/license/GabiAndi/FileSyncCenter"></a>
+    <a><img alt="GitHub issues" src="https://img.shields.io/github/issues/GabiAndi/FileSyncCenter"></a>
+    <a><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/GabiAndi/FileSyncCenter"></a>
+    <a><img alt="GitHub forks" src="https://img.shields.io/github/forks/GabiAndi/FileSyncCenter"></a>
+    <a><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GabiAndi/FileSyncCenter"></a>
+    <a><img src="https://img.shields.io/github/contributors/GabiAndi/FileSyncCenter"></a>
+</p>
+
 FileSyncCenter es un Software inspirado en [FreeFileSync](https://freefilesync.org/), que le permite sincronizar el contenido de dos o mas directorios de manera simultanea. Con el puede crear copias de seguridad de forma rápida y sencilla, ya que compara la fuente y los destinos para realizar la menor transferencia de datos posible.
 
 Puede ejecutarse como un proceso en segundo plano, que se encarga de monitorizar cambios en los directorios seleccionados, sincronizando los destinos de manera inmediata o luego de un tiempo determinado.
