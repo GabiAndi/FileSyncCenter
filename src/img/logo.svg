@@ -3,8 +3,8 @@
 
 <svg
    width="118.25486mm"
-   height="29.740826mm"
-   viewBox="0 0 118.25486 29.740826"
+   height="21.074638mm"
+   viewBox="0 0 118.25486 21.074639"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
@@ -25,7 +25,7 @@
      showgrid="false"
      inkscape:zoom="1.8318311"
      inkscape:cx="227.09517"
-     inkscape:cy="72.059044"
+     inkscape:cy="57.319695"
      inkscape:window-width="1920"
      inkscape:window-height="987"
      inkscape:window-x="0"
@@ -176,17 +176,17 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-114.38791,-82.522713)">
+     transform="translate(-114.38791,-86.451385)">
     <rect
-       style="fill:#426ea2;fill-opacity:1;stroke:none;stroke-width:0.457435;stroke-dasharray:3.65947, 0.914871, 0.457435, 0.914871"
+       style="fill:#426ea2;fill-opacity:1;stroke:none;stroke-width:0.385064;stroke-dasharray:3.0805, 0.770129, 0.385064, 0.770129"
        id="rect28"
        width="118.25486"
-       height="29.740826"
+       height="21.074638"
        x="114.38791"
-       y="82.522713" />
+       y="86.451385" />
     <g
        id="g10417"
-       transform="translate(-0.55819545,0.88896223)">
+       transform="translate(-0.55819545,0.48454138)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
